@@ -1,0 +1,5 @@
+User with email: ana@gmail.com was successfully added!
+User with email: ana@gmail.com is the current user started from 2022-07-28T17:05:27.354021200
+Flight from 1 to Bucharest, date Milano, duration 80 successfully added!
+Flight from 2 to Bucharest, date london, duration 120 successfully added!
+Flight from 3 to Sibiu, date Barcelona, duration 140 successfully added!
